@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'icon-paket';
+  src:  url('fonts/icon-paket.eot?pmmlwa');
+  src:  url('fonts/icon-paket.eot?pmmlwa#iefix') format('embedded-opentype'),
+    url('fonts/icon-paket.ttf?pmmlwa') format('truetype'),
+    url('fonts/icon-paket.woff?pmmlwa') format('woff'),
+    url('fonts/icon-paket.svg?pmmlwa#icon-paket') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icon-paket' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Vector .path1:before {
+  content: "\e906";
+  color: rgb(229, 229, 229);
+}
+.icon-Vector .path2:before {
+  content: "\e90b";
+  margin-left: -1.63671875em;
+  color: rgb(242, 244, 247);
+}
+.icon-Vector .path3:before {
+  content: "\e90c";
+  margin-left: -1.63671875em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.icon-Vector .path4:before {
+  content: "\e90d";
+  margin-left: -1.63671875em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.icon-Vector .path5:before {
+  content: "\e90e";
+  margin-left: -1.63671875em;
+  color: rgb(252, 252, 253);
+}
+.icon-Vector .path6:before {
+  content: "\e90f";
+  margin-left: -1.63671875em;
+  color: rgb(34, 33, 220);
+}
+.icon-Vector .path7:before {
+  content: "\e910";
+  margin-left: -1.63671875em;
+  color: rgb(255, 255, 255);
+}
+.icon-notification:before {
+  content: "\e900";
+}
+.icon-cog:before {
+  content: "\e901";
+}
+.icon-subdirectory_arrow_left:before {
+  content: "\e912";
+}
+.icon-keyboard_arrow_up:before {
+  content: "\e902";
+}
+.icon-keyboard_arrow_right:before {
+  content: "\e903";
+}
+.icon-keyboard_arrow_left:before {
+  content: "\e904";
+}
+.icon-keyboard_arrow_down:before {
+  content: "\e905";
+}
+.icon-search:before {
+  content: "\e911";
+}
+.icon-arrow-right:before {
+  content: "\e907";
+}
+.icon-arrow-left:before {
+  content: "\e908";
+}
+.icon-arrow-down:before {
+  content: "\e909";
+}
+.icon-arrow-up:before {
+  content: "\e90a";
+}
